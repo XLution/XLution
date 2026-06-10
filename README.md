@@ -1,4 +1,6 @@
-## Hi there 👋
+# About me 👋
+
+- 🌱 I’m currently learning html, JavaScript, how to use GitHub and how te create Office Add-ins
 
 <!--
 **XLution/XLution** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
